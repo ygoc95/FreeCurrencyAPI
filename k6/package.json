@@ -1,0 +1,11 @@
+{
+  "name": "k6",
+  "version": "1.0.0",
+  "description": "k6 tests for Free CurrencyAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
